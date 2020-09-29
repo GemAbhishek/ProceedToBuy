@@ -1,0 +1,33 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: proceedtobuydeployment
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: ProceedToBuy
+  template:
+    metadata:
+      labels:
+        app: ProceedToBuy
+    spec:
+      containers:
+      - name: proceedtobuymicroservicerepo
+        image: productmicroservicecr.azurecr.io/proceedtobuymicroservicerepo:latest
+        ports:
+        - containerPort: 8080
+      imagePullSecrets:
+      - name: redone
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: proceedtobuy
+spec:
+  type: LoadBalancer
+  ports:
+  - port: 80
+  selector:
+    app: ProceedToBuy

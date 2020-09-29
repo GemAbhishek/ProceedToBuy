@@ -12,17 +12,14 @@ namespace ProceedToBuy.Controllers
     [ApiController]
     public class ProceedToBuyController : ControllerBase
     {
-        readonly log4net.ILog _log4net;
-
-
-        Uri baseAddress = new Uri("https://localhost:44321");
+       
+        Uri baseAddress = new Uri("http://40.76.132.82");
         HttpClient client;
 
         public ProceedToBuyController()
         {
             client = new HttpClient();
-            client.BaseAddress = baseAddress;
-            _log4net = log4net.LogManager.GetLogger(typeof(ProceedToBuyController));          
+            client.BaseAddress = baseAddress;        
         }
 
         /*
@@ -31,8 +28,6 @@ namespace ProceedToBuy.Controllers
         [HttpGet("{Var}")]
         public IActionResult GetbyNameOrId(string Var)
         {
-            _log4net.Info("ProceedToBuyController GetbyNameOrId Action Method is called ");
-
             HttpResponseMessage response = client.GetAsync(client.BaseAddress + "api/Product/" + Var).Result;
             if (response.IsSuccessStatusCode)
             {

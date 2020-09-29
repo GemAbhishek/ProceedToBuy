@@ -103,3 +103,4 @@ G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Pro
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.dll
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.pdb
 G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.genruntimeconfig.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.yaml
