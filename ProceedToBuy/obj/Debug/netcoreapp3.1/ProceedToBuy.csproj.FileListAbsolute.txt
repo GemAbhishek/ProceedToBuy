@@ -1,0 +1,105 @@
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.exe
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.deps.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.pdb
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.genruntimeconfig.cache
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.json
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.exe
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.deps.json
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.json
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.dev.json
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.dll
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.pdb
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csprojAssemblyReference.cache
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfoInputs.cache
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfo.cs
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.RazorTargetAssemblyInfo.cache
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.Manifest.cache
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.xml
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.dll
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.pdb
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.genruntimeconfig.cache
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+H:\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csproj.CopyComplete
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\log4net.config
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csproj.CopyComplete
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\log4net.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.MvcApplicationPartsAssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V1\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\log4net.config
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.Development.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\appsettings.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.exe
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.deps.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.runtimeconfig.dev.json
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\ProceedToBuy.pdb
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\log4net.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Log4Net.AspNetCore.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csprojAssemblyReference.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfoInputs.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.AssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csproj.CoreCompileInputs.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.MvcApplicationPartsAssemblyInfo.cs
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.MvcApplicationPartsAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.RazorTargetAssemblyInfo.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.csproj.CopyComplete
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.Manifest.cache
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\staticwebassets\ProceedToBuy.StaticWebAssets.xml
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.dll
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.pdb
+G:\visual studio\CTS MFPE Project V3\backup\Retail Product Management\Retail Product Management\ProceedToBuyModule\ProceedToBuy\obj\Debug\netcoreapp3.1\ProceedToBuy.genruntimeconfig.cache
